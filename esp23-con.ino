@@ -1,3 +1,5 @@
+//This is a example code 
+
 // Define the use of NimBLE (Bluetooth Low Energy stack)
 #define USE_NIMBLE
 // Include the BleKeyboard library
